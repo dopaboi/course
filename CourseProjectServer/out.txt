@@ -1,0 +1,242 @@
+Client{id = 8, login = qwe, money = 500.0} зарегистрировался 2018-12-12T20:47:23.216
+Client{id = 8, login = qwe, money = 500} подключился 2018-12-12T20:47:28.686
+Client{id = 8, login = qwe, money = 500} добавил себе билет в корзину с ид = 29 2018-12-12T20:47:49
+Client{id = 8, login = qwe, money = 495.0} купил билет с ид = 29 2018-12-12T20:48:04.752
+Client{id = 8, login = qwe, money = 995.0}пополнил себе баланс на 500 2018-12-12T20:48:27.097
+Client{id = 1, login = 123, money = 500.0} зарегистрировался 2019-12-08T16:27:50.650959200
+Client{id = 1, login = 123, money = 500} подключился 2019-12-08T16:27:53.345479800
+Client{id = 1, login = 123, money = 500} вышел из приложения 2019-12-08T16:28:13.121898
+Client{id = 1, login = 123, money = 500} подключился 2019-12-08T16:29:49.917765300
+Client{id = 2, login = admin, money = 500.0} зарегистрировался 2019-12-08T16:35:47.789756100
+Client{id = 2, login = admin, money = 500} подключился 2019-12-08T16:35:52.196338100
+Client{id = 2, login = admin, money = 623.0}пополнил себе баланс на 123 2019-12-08T16:35:58.115044200
+Неудачная попытка регистрации: vlados 2019-12-08T16:44:40.087830100
+Client{id = 4, login = vlad, money = 500.0} зарегистрировался 2019-12-08T16:47:34.436371100
+User{login='vlad', type=ADMIN} подключился 2019-12-08T16:47:38.688226300
+User{login='vlad', type=ADMIN} подключился 2019-12-08T23:42:56.798599800
+Client{id = 1, login = 123, money = 500} подключился 2019-12-08T23:43:33.314454500
+Client{id = 1, login = 123, money = 500} добавил себе билет в корзину с ид = 3 2019-12-08T23:43:53.763012700
+Client{id = 1, login = 123, money = 85.0} купил билет с ид = 3 2019-12-08T23:44:10.662915500
+Client{id = 1, login = 123, money = 5085.0}пополнил себе баланс на 5000 2019-12-08T23:44:23.010633900
+Client{id = 1, login = 123, money = 5085.0} вышел из приложения 2019-12-08T23:44:27.529628500
+User{login='vlad', type=ADMIN} подключился 2019-12-09T01:04:12.233372800
+User{login='vlad', type=ADMIN} подключился 2019-12-09T01:14:56.435333600
+Client{id = 1, login = 123, money = 5085} подключился 2019-12-09T01:17:24.410400300
+User{login='vlad', type=ADMIN} подключился 2019-12-09T17:08:28.972969200
+Client{id = 1, login = 123, money = 5085} подключился 2019-12-09T17:09:28.975165800
+Client{id = 1, login = 123, money = 15085.0}пополнил себе баланс на 10000 2019-12-09T17:09:36.140523400
+User{login='vlad', type=ADMIN} подключился 2019-12-09T17:17:59.516510
+Client{id = 1, login = 123, money = 15085} подключился 2019-12-09T17:18:17.129968100
+Client{id = 1, login = 123, money = 40135.0}пополнил себе баланс на 25050 2019-12-09T17:18:24.863924800
+Client{id = 1, login = 123, money = 40135.0} добавил себе билет в корзину с ид = 3 2019-12-09T17:18:36.461309700
+User{login='vlad', type=ADMIN} подключился 2019-12-09T17:19:16.842636
+User{login='vlad', type=ADMIN}удалил фильм с ид = 3 2019-12-09T17:19:30.251596200
+User{login='vlad', type=ADMIN}удалил фильм с ид = 4 2019-12-09T17:19:36.054292900
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-09T17:25:23.949973900
+Client{id = 1, login = 123, money = 40135} вышел из приложения 2019-12-09T17:25:37.489420300
+User{login='vlad', type=ADMIN} подключился 2019-12-09T17:25:49.636669
+User{login='vlad', type=ADMIN} подключился 2019-12-09T18:40:57.157489100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T19:17:12.203961200
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-09T19:24:42.053870800
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-09T19:28:32.468668400
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-09T19:50:55.672897100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T20:40:04.504709300
+User{login='vlad', type=ADMIN} добавил новый фильм: film, comedy, Ya, Andrey 2019-12-09T20:40:32.951448100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T20:54:02.849840400
+User{login='vlad', type=ADMIN} добавил новый сеанс: film, 2019-12-10, 555.5 2019-12-09T20:54:26.456427
+User{login='vlad', type=ADMIN} подключился 2019-12-09T20:55:33.817323200
+User{login='vlad', type=ADMIN} подключился 2019-12-09T21:43:41.751160800
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-09T21:43:54.024145300
+Client{id = 5, login = user1, money = 500.0} зарегистрировался 2019-12-09T21:44:19.529993600
+Client{id = 5, login = user1, money = 500} подключился 2019-12-09T21:44:24.222323500
+Client{id = 5, login = user1, money = 500} добавил себе билет в корзину с ид = 10 2019-12-09T21:51:06.539495900
+Client{id = 5, login = user1, money = 71.0} купил билет с ид = 10 2019-12-09T21:51:22.979666300
+User{login='vlad', type=ADMIN} подключился 2019-12-09T22:42:39.232361800
+User{login='vlad', type=ADMIN} подключился 2019-12-09T22:52:48.321101200
+User{login='vlad', type=ADMIN} подключился 2019-12-09T22:58:41.795595200
+User{login='vlad', type=ADMIN} подключился 2019-12-09T23:02:45.134714100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T23:50:47.799527100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T23:55:32.412129100
+User{login='vlad', type=ADMIN} подключился 2019-12-09T23:55:58.917472800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:03:47.077106700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:04:08.734722100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:05:07.529093900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:09:38.589932900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:10:04.776458600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:16:01.884713100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:18:55.784499300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:21:17.390933900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:22:22.601841800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:22:47.008261100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:23:14.631557600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:23:25.903134400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:24:32.017505
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:27:28.032832300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:28:36.062289300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:29:17.000044100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:30:10.662089700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:30:48.129010800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:31:33.596382700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:31:54.600977800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:32:22.378432600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:34:44.073041
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:35:19.819783100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:42:45.882352600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:46:11.063198100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:46:47.565938900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:50:08.202182700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T00:58:46.184400400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:01:05.707224200
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:16:00.180324900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:21:52.029319
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:34:29.028833900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:35:46.137400500
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:38:13.284231300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:44:10.510391400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:45:16.483327600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:51:38.629198800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:56:07.781759300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:57:17.752958900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T01:59:38.688244
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:01:09.838780300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:02:06.698989
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:05:04.107672500
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:05:19.912350400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:06:33.997816700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:18:45.772911500
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:20:26.206157900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:21:25.817472600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:31:39.785297600
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:32:07.480632
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:32:28.669014
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:33:57.146670400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:34:54.278881100
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:36:15.327081800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:43:49.164962
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:51:04.457282300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:51:17.406473800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:58:04.426358300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:58:47.505842200
+User{login='vlad', type=ADMIN} подключился 2019-12-10T02:59:32.107905500
+User{login='vlad', type=ADMIN} подключился 2019-12-10T03:00:35.782878300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T03:01:00.728229900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T03:02:40.286793900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T03:03:34.911363300
+User{login='vlad', type=ADMIN} подключился 2019-12-10T03:03:51.338022900
+User{login='vlad', type=ADMIN} подключился 2019-12-10T05:56:53.476767800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T07:01:46.001967900
+User{login='vlad', type=ADMIN}удалил фильм с ид = 1 2019-12-10T07:14:06.792624
+Client{id = 1, login = 123, money = 40135} подключился 2019-12-10T07:17:48.524056200
+Client{id = 1, login = 123, money = 40135} добавил себе билет в корзину с ид = 2 2019-12-10T07:21:15.008728700
+Client{id = 1, login = 123, money = 39753.0} купил билет с ид = 2 2019-12-10T07:22:21.807396200
+Client{id = 1, login = 123, money = 39753.0} добавил себе билет в корзину с ид = 2 2019-12-10T07:23:03.295986400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T08:51:33.450299700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:31:17.915250200
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:33:24.202076400
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:33:37.796242800
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:42:03.681522700
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:46:36.359208
+User{login='vlad', type=ADMIN} подключился 2019-12-10T15:48:02.693649300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:39:18.394499700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:40:15.965037600
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:55:17.962736200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:55:47.292146100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:57:11.796446600
+User{login='vlad', type=ADMIN} подключился 2019-12-12T00:58:55.908787600
+User{login='vlad', type=ADMIN} подключился 2019-12-12T01:16:03.889879600
+User{login='vlad', type=ADMIN} подключился 2019-12-12T01:30:03.485084400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T02:28:38.109869
+User{login='vlad', type=ADMIN} подключился 2019-12-12T02:45:50.371263300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T02:46:21.454280300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T02:46:40.734104300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T12:02:14.052231500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T12:33:02.340143500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T12:46:57.065838700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:01:38.130988
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:03:40.803839500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:05:29.639387900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:06:33.519192200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:07:32.972919700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:08:27.164657100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:08:47.033869300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:09:21.519120700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:13:56.457264300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:14:35.850797100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T14:31:47.205429600
+User{login='vlad', type=ADMIN} подключился 2019-12-12T19:36:56.721057200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T19:38:52.294243500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T19:43:01.966689500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T19:49:45.233839400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T19:59:39.589008
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:02:25.468809700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:05:20.819392900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:06:36.140482800
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:06:57.412108900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:07:11.457384900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:08:08.952563200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:09:32.828208
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:09:48.093534200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:10:19.243400200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:10:38.196863700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:10:51.400571500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:11:22.411239700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:12:11.173124900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:12:44.042244700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:13:04.600675700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:15:02.513978
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:17:27.011675900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:17:56.878998500
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:22:04.921032900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:34:40.384095700
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:35:44.666727400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:36:54.091674900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:38:19.726885800
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:43:08.975383400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:45:14.225500400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:45:56.754474100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:47:15.517920200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:47:52.196140800
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:48:11.117276400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:48:37.401340200
+User{login='vlad', type=ADMIN} подключился 2019-12-12T20:48:56.372450400
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:13:58.743159100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:14:59.482166800
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:26:19.814724100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:30:22.937330300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:30:30.967665900
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:30:38.452905300
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:31:43.982797100
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:33:05.295745800
+User{login='vlad', type=ADMIN} подключился 2019-12-12T21:33:41.858583600
+User{login='vlad', type=ADMIN} подключился 2019-12-13T10:48:24.287852500
+User{login='vlad', type=ADMIN} подключился 2019-12-13T10:52:20.572843900
+User{login='vlad', type=ADMIN} подключился 2019-12-13T10:58:55.107078
+User{login='vlad', type=ADMIN} подключился 2019-12-13T10:59:08.578294200
+User{login='vlad', type=ADMIN} подключился 2019-12-13T17:15:21.811968900
+User{login='vlad', type=ADMIN} подключился 2019-12-13T17:15:45.724648100
+User{login='vlad', type=ADMIN} подключился 2019-12-13T17:16:05.918826200
+User{login='vlad', type=ADMIN} подключился 2019-12-13T17:16:48.874794600
+User{login='vlad', type=ADMIN} подключился 2019-12-13T17:16:55.492067900
+User{login='vlad', type=ADMIN} подключился 2019-12-13T20:10:34.614985300
+User{login='vlad', type=ADMIN} подключился 2019-12-13T20:11:27.149211600
+User{login='vlad', type=ADMIN} подключился 2019-12-14T05:06:43.526242200
+User{login='vlad', type=ADMIN} подключился 2019-12-17T02:20:06.359938800
+User{login='vlad', type=ADMIN} добавил новый фильм: 232, , 232, 1231 2019-12-17T02:20:11.702932600
+User{login='vlad', type=ADMIN} пытался добавить сеанс, но произошла ошибка: 11, 11, 11 2019-12-17T02:20:18.687204
+User{login='vlad', type=ADMIN} пытался добавить сеанс, но произошла ошибка: Бриллиантовая рука, 2019-12-10 19:00, 520 2019-12-17T02:21:44.721280800
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:27:25.604196800
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:27:42.191360300
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:40:56.174586400
+User{login='vlad', type=ADMIN}deleted film with id = 12 2019-12-18T10:41:08.274214800
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:52:05.543021900
+User{login='vlad', type=ADMIN}deleted film with id = 13 2019-12-18T10:52:42.951976
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:53:22.852910300
+User{login='vlad', type=ADMIN} подключился 2019-12-18T10:58:13.159921900
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:00:05.698718700
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:01:26.476277100
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:08:57.571863900
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:10:18.184359
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:13:49.456891500
+User{login='vlad', type=ADMIN}deleted film with id = 11 2019-12-18T11:14:02.376898800
+User{login='vlad', type=ADMIN} подключился 2019-12-18T11:46:52.580668500
+User{login='vlad', type=ADMIN}deleted film with id = 11 2019-12-18T11:47:08.118954200
